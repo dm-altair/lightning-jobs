@@ -47,6 +47,6 @@ Clone the repository and change directories
    python3 -m venv env
    source env/bin/activate
    ```
-1. Run `pip install -r requirements` to install dependencies   
+1. Run `pip install -r requirements.txt` to install dependencies   
 1. Run `python3 app.py` to start the Flask proxy server
 1. To exit the virtual environment, stop the Flask server and run `deactivate` 
